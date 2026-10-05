@@ -1,1 +1,2 @@
+/eev.mp4 filter=lfs diff=lfs merge=lfs -text
 public/eev.mp4 filter=lfs diff=lfs merge=lfs -text
